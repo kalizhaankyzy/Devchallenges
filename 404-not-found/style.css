@@ -1,0 +1,118 @@
+body, a{
+    font-family: Space Mono;
+}
+header{
+    position: absolute;
+    left: 77px;
+    top: 3%;
+}
+header p{
+    font-family: Inconsolata;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 8%;
+}
+.content-left-side{
+    width: 50%;
+}
+.content-left-side img{
+    width: 75%;
+    margin-left: 5%;
+    /* width: 539.22px; */
+}
+.content-right-side{
+    width: 50%;
+}
+.content-right-side h2{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 400%;
+    letter-spacing: -0.035em;
+    color: #333333;
+    width: 80%;
+}
+.content-right-side p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 150%;
+    letter-spacing: -0.035em;
+    width: 381px;
+}
+.content-right-side button{
+    width: 30%;
+    /* padding: 3%; */
+    /* width: 216px; */
+    height: 68px;
+    /* height: 60%; */
+    background-color: #333333;
+}
+.content-right-side button a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    line-height: 21px;
+    
+}
+footer{
+    position: absolute;
+    left: 42%;
+    top: 100%;
+    color: #bdbdbd;
+    font-family: Montserrat;
+    font-size: 14px;
+    line-height: 17px;
+}
+footer a{
+    color: #999898;
+    font-weight: bold;
+}
+@media only screen and (max-width: 800px) {
+    body{
+        position: relative;
+        width: 375px;
+        height: 949px;
+        margin: 0 auto;
+        background: #FFFFFF;
+        box-shadow: 0px 2px 24px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+    }
+    header{
+        left: 10%;
+    }
+    .content{
+        display: flex;
+        flex-flow: column;
+    }
+    .content-right-side, .content-left-side{
+        width: 100%;
+    }
+    .content-left-side img{
+        width: 70%;
+        margin-top: 35%;
+        margin-left: 12%;
+    }
+    .content-right-side h2{
+        font-size: 300%;
+        width: 100%;
+    }
+    .content-right-side p{
+        font-size: 110%;
+        width: 85%;
+    }
+    .content-right-side button{
+        width: 216px;
+        height: 68px;
+        background-color: #333333;
+    }
+    footer{
+       left: 12%;
+       top: 96%;
+    }
+  }
