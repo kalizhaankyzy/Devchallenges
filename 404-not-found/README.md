@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://kalizhaankyzy.github.io/Devchallenges/404-not-found/index.html">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/kalizhaankyzy/Devchallenges/404-not-found">
       Solution
     </a>
     <span> | </span>
@@ -27,43 +27,23 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
 ![screenshot](screenshot.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
-<!-- ### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
+My first challenge from [DevChallenges](https://devchallenges.io/challenges). I'll testing new things during challenges.
 
 ## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
 
-<!-- ## Acknowledgements -->
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-
 ## Contact
 
-- Website [your-website.com]({https://kalizhaankyzy.github.io/Devchallenges/404-not-found/index.html})
-- GitHub [@your-username]({https://github.com/kalizhaankyzy/Devchallenges})
-- Instagram [@your-twitter](https://{instagram.com/kalizhaankyzy})
+- Website [website.com](https://kalizhaankyzy.github.io/Devchallenges/404-not-found/index.html)
+- GitHub [@kalizhaankyzy](https://github.com/kalizhaankyzy/Devchallenges)
+- Instagram [@kalizhaankyzy](https://{instagram.com/kalizhaankyzy)
