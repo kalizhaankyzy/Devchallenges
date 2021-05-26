@@ -27,7 +27,6 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
@@ -37,13 +36,9 @@
 ![screenshot](screenshot.png)
 My first challenge from [DevChallenges](https://devchallenges.io/challenges). I'll testing new things during challenges.
 
-## Features
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
-
 
 ## Contact
 
-- Website [website.com](https://kalizhaankyzy.github.io/Devchallenges/404-not-found/index.html)
+- Website [404-not-found.com](https://kalizhaankyzy.github.io/Devchallenges/404-not-found/index.html)
 - GitHub [@kalizhaankyzy](https://github.com/kalizhaankyzy/Devchallenges)
 - Instagram [@kalizhaankyzy](https://{instagram.com/kalizhaankyzy)
