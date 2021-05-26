@@ -41,4 +41,4 @@ My first challenge from [DevChallenges](https://devchallenges.io/challenges). I'
 
 - Website [404-not-found.com](https://kalizhaankyzy.github.io/Devchallenges/404-not-found/index.html)
 - GitHub [@kalizhaankyzy](https://github.com/kalizhaankyzy/Devchallenges)
-- Instagram [@kalizhaankyzy](https://{instagram.com/kalizhaankyzy)
+- Instagram [@kalizhaankyzy](https://www.instagram.com/kalizhaankyzy)
